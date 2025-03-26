@@ -50,3 +50,23 @@ if __name__ == '__main__':
         tc -= 1
         print("~")
 # } Driver Code Ends
+
+class Solution:
+	def pushZerosToEnd(self,arr):
+    	# code here
+    	for num in arr:
+			if num == 0:
+				arr.remove(num)
+				arr.append(num)
+		return arr
+
+ssdfjlksf
+ ksjfkja
+  aksfkjs
+   as'dfj k
+   a alsf
+    vishveshesar
+	 hiremath
+	 vishveshesar
+	 vishveshesar # WARNING:  vish
+	 
